@@ -2,6 +2,6 @@
 # Objectifs :
  - Création d'un site web de E-Commerce en PHP 
  - Réaliser un mini-framework en pattern MVC
- - Commnuiquer avec une base de données
+ - Communiquer avec une base de données
  - Utiliser les cookies de session
  - Gérer des comptes utilisateurs 
